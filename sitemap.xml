@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://tonyhph.github.io/Tonyhph/eb4f6df6/</loc>
-    
-    <lastmod>2022-01-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://tonyhph.github.io/Tonyhph/9776190d/</loc>
-    
-    <lastmod>2022-01-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://tonyhph.github.io/Tonyhph/4a17b156/</loc>
     
     <lastmod>2022-01-30</lastmod>
@@ -38,14 +20,7 @@
 
   
   <url>
-    <loc>https://tonyhph.github.io/tags/photo/</loc>
-    <lastmod>2022-01-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://tonyhph.github.io/tags/FancyBox/</loc>
+    <loc>https://tonyhph.github.io/tags/hide/</loc>
     <lastmod>2022-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
