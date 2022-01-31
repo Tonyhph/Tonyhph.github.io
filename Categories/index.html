@@ -27,7 +27,7 @@
 <meta property="og:site_name" content="Tony&#39;s Blog">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2022-01-31T05:48:50.000Z">
-<meta property="article:modified_time" content="2022-01-31T05:48:50.481Z">
+<meta property="article:modified_time" content="2022-01-31T05:53:56.332Z">
 <meta property="article:author" content="Tony Huang">
 <meta property="article:tag" content="coding, algorithm">
 <meta name="twitter:card" content="summary">
@@ -213,7 +213,15 @@
       
       
       <div class="post-body">
-          
+          <div class="category-all-page">
+            <div class="category-all-title">
+              No categories
+            </div>
+            <div class="category-all">
+              
+            </div>
+          </div>
+        
       </div>
       
       
@@ -228,6 +236,13 @@
 
           </div>
           
+    
+  <div class="comments">
+    <div id="disqus_thread">
+      <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+    </div>
+  </div>
+  
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -452,6 +467,37 @@ window.addEventListener('pjax:success', () => {
   
 
   
+
+<script>
+  function loadCount() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://tonys-blog-2.disqus.com/count.js';
+    s.id = 'dsq-count-scr';
+    (d.head || d.body).appendChild(s);
+  }
+  // defer loading until the whole page loading is completed
+  window.addEventListener('load', loadCount, false);
+</script>
+<script>
+  var disqus_config = function() {
+    this.page.url = "https://tonyhph.github.io/Categories/index.html";
+    this.page.identifier = "Categories/index.html";
+    this.page.title = "Categories";
+    };
+  NexT.utils.loadComments(document.querySelector('#disqus_thread'), () => {
+    if (window.DISQUS) {
+      DISQUS.reset({
+        reload: true,
+        config: disqus_config
+      });
+    } else {
+      var d = document, s = d.createElement('script');
+      s.src = 'https://tonys-blog-2.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', '' + +new Date());
+      (d.head || d.body).appendChild(s);
+    }
+  });
+</script>
 
     </div>
 </body>

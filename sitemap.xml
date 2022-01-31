@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://tonyhph.github.io/Tags/index.html</loc>
+    <loc>https://tonyhph.github.io/Tonyhph/c3c85beb/</loc>
     
     <lastmod>2022-01-31</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://tonyhph.github.io/About/index.html</loc>
+    <loc>https://tonyhph.github.io/Tags/index.html</loc>
     
     <lastmod>2022-01-31</lastmod>
     
@@ -29,9 +29,9 @@
   </url>
   
   <url>
-    <loc>https://tonyhph.github.io/Tonyhph/c3c85beb/</loc>
+    <loc>https://tonyhph.github.io/About/index.html</loc>
     
-    <lastmod>2022-01-30</lastmod>
+    <lastmod>2022-01-31</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
