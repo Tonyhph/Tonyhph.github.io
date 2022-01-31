@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://tonyhph.github.io/Tonyhph/c3c85beb/</loc>
+    
+    <lastmod>2022-01-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://tonyhph.github.io/Tonyhph/4a17b156/</loc>
     
     <lastmod>2022-01-30</lastmod>
@@ -13,18 +22,11 @@
 
   <url>
     <loc>https://tonyhph.github.io/</loc>
-    <lastmod>2022-01-30</lastmod>
+    <lastmod>2022-01-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>https://tonyhph.github.io/tags/hide/</loc>
-    <lastmod>2022-01-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
 
   
