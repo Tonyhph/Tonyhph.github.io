@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>test</title>
-    <url>/Tonyhph/d87f7e0c/</url>
-    <content><![CDATA[<img data-src="/Tonyhph/d87f7e0c/monkey-g83d31adb2_1920.jpg" class="" title="You">
-
-]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>test</title>
+      <link href="/Tonyhph/d87f7e0c/"/>
+      <url>/Tonyhph/d87f7e0c/</url>
+      
+        <content type="html"><![CDATA[<img data-src="/Tonyhph/d87f7e0c/monkey-g83d31adb2_1920.jpg" class="" title="You">]]></content>
+      
+      
       <categories>
-        <category>test</category>
+          
+          <category> test </category>
+          
       </categories>
-      <tags>
-        <tag>test</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
